@@ -1,17 +1,31 @@
-
+<!-- 顶部导航栏最外层容器：控制导航栏整体区域 -->
 <div class="masthead">
+  <!-- 导航栏内部包裹层：用于居中、内边距等布局控制 -->
   <div class="masthead__inner-wrap">
+    <!-- 导航菜单容器：包裹导航核心内容 -->
     <div class="masthead__menu">
+      <!-- 语义化导航标签：id="site-nav" 供JS锚点高亮使用，class="site-nav" 自定义导航样式 -->
       <nav id="site-nav" class="site-nav">
+        <!-- 导航链接列表：无序列表，水平排列所有导航菜单项 -->
         <ul class="site-nav__links">
+          {% comment %} Liquid循环：遍历 _data/navigation.yml 文件中配置的主导航链接 {% endcomment %}
           {% for link in site.data.navigation.main %}
-            <li><a href="{{ link.url | relative_url }}" class="site-nav__link">{{ link.title }}</a></li>
+            <!-- 单个导航项 -->
+            <li>
+              <!-- 导航链接：
+                1. href：生成导航链接地址，relative_url 过滤器自动适配站点根路径
+                2. class：导航链接样式类，配合CSS控制字体、高亮、悬停效果
+                3. {{ link.title }}：渲染导航显示文字
+              -->
+              <a href="{{ link.url | relative_url }}" class="site-nav__link">{{ link.title }}</a>
+            </li>
           {% endfor %}
         </ul>
       </nav>
     </div>
   </div>
 </div>
+
 
 
 <!-- 第一段：无汉堡菜单，链接可能挤成一团或溢出，无法正常使用
