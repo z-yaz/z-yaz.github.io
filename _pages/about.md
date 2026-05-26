@@ -46,6 +46,27 @@ Yaze Zhao, Yixiong Zou, Yuhua Li, Ruixuan Li
 </div>
 
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Under Review</div>
+      <img src='images/Semantic_Probe.png' alt="Semantic Probe" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning](http://arxiv.org/abs/2605.11659)
+
+**Yaze Zhao**<sup>†</sup>, Yicong Liu<sup>†</sup>, Yixiong Zou, Yuhua Li, Ruixuan Li
+
+- We propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves state-of-the-art performance on four CDFSL benchmarks.
+- <sup>†</sup> indicates equal contribution (co-first authors).
+
+</div>
+</div>
+
+
 <div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
