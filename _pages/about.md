@@ -46,7 +46,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
