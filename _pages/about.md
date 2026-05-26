@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://https://arxiv.org/abs/2603.17655)
+[Interpretable Cross-Domain Few-Shot Learning with Rectified Target-Domain Local Alignment](https://arxiv.org/abs/2603.17655)
 
 **Yaze Zhao**, Yixiong Zou, Yuhua Li, Ruixuan Li
 
