@@ -27,7 +27,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2026.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
 <div class='paper-box paper-box--afip'>
   <div class='paper-box-image'>
     <div>
@@ -59,10 +58,8 @@ To tackle this issue, we propose the CC-CDFSL method, which constructs self-supe
 </div>
 </div>
 
-
-
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
