@@ -66,64 +66,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602)
-
-Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou
-
-- We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
-</div>
-
-<div class='paper-box paper-box--moon'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/moon.png' alt="MOON overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**
-
-Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
-
-- We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models](https://arxiv.org/abs/2602.01167)
-
-**Zhiming Liu**, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang
-
-- We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
-
-Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
-
-- We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/adrl.png' alt="paper-1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785)
-
-Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</sup>, Tingjin Luo, Chenping Hou
-
-- We proposed *ADRL*, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
-</div>
-
 
 
 
