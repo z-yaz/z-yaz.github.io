@@ -21,6 +21,7 @@ Hi, There👋! I am a student at Huazhong University of Science and Technology(H
 
 I am currently diving into **Few-shot Learning** and **Visual Language Model**, aiming to help build more intelligent systems.
 
+**Feel free to reach me via email.**
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉  We win the **2nd Place** in the NTIRE 2026 CD-FSOD Challenge, CVPR2026.
