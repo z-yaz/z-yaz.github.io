@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, There👋! I am a student at HUST. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=hrC7n6QAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=hrC7n6QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently diving into **Few-shot Learning** and **Visual Language Model**, aiming to help build more intelligent systems.
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2026.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉🎉  We win the **2nd Place** in the NTIRE 2026 CD-FSOD Challenge, CVPR2026.
+- *2026.02*: &nbsp;🎉🎉 One paper "Interpretable CDSFSL with Rectified Target-Domain Local Alignment", was accepted by **CVPR 2026**.
+
 
 # 📝 Publications 
 
@@ -64,13 +65,33 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+### 🏆 Competitions
+- *2026.03* CVPR Workshop NTIRE-CDFSOD Challenge (Cross‑Domain Few‑Shot Object Detection) – Global Second Place
+- *2025.05* Chinese Collegiate Computing Competition (4C), Central South Regional Third Prize
+- *2024.08* RAICOM Robot Developer Competition, National First Prize
+- *2024.06* Blue Bridge Cup National Software and Information Technology Talent Competition, National Second Prize
+- *2024.06* China College Students’ Service Outsourcing Innovation and Entrepreneurship Competition, National Second Prize
+- *2024.05* Mathematical Contest in Modeling (MCM), Honorable Mention (H Award)
+- *2024.04* Huawei ICT Competition (Ascend AI Track), National Third Prize
+
+### 🎓 Honors & Scholarships
+- *2025.10* First‑Class Master’s Academic Scholarship, HUST
+- *2025.06* HUST Outstanding Graduate
+- *2025.05* HUST Outstanding Communist Youth League Member
+- *2024.12* HUST Merit Student
+- *2024.03* Sangfor Scholarship
+- *2023.12* Academic Excellence Scholarship, HUST
+- *2023.07* Outstanding Individual in the “Three Rural” Summer Social Practice, HUST
+- *2022.03* Social Welfare Scholarship, HUST
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, 华中科技大学，计算机科学与技术专业，硕士
+- *2021.09 - 2025.06*, 华中科技大学，数据科学与大数据专业，本科
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
