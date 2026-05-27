@@ -21,10 +21,10 @@ Hi, There👋! I am a student at Huazhong University of Science and Technology(H
 
 I am currently diving into **Few-shot Learning** and **Visual Language Model**, aiming to help build more intelligent systems.
 
-**Feel free to reach me via email.**
+**Feel free to reach me via email or WeChat: ABC-4941**
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉  We win the **2nd Place** in the NTIRE 2026 CD-FSOD Challenge, CVPR2026.
+- *2026.03*: &nbsp;🎉🎉  We win the **2nd Place** in the NTIRE 2026 CD-FSOD Challenge, CVPR 2026.
 - *2026.02*: &nbsp;🎉🎉 One paper "Interpretable CDSFSL with Rectified Target-Domain Local Alignment", was accepted by **CVPR 2026**.
 
 
