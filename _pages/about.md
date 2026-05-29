@@ -33,6 +33,45 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Under Review</div>
+      <img src='images/Semantic_Probe.png' alt="Semantic Probe" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning**](http://arxiv.org/abs/2605.11659)
+
+**Yaze Zhao**<sup>†</sup>, Yicong Liu<sup>†</sup>, Yixiong Zou, Yuhua Li, Ruixuan Li
+
+-  By establishing multiple fine-tuning baselines of CLIP for CDFSL, we find adapter-based methods consistently outperform prompt-based ones—contrary to in-domain scenarios. We analyze this phenomenon and discover LoRA’s superiority stems from rectifying the collapsed attention of visual [CLS] token, enhancing modality alignment and class separation by focusing on text-related visual regions. Further, we find textual [EOS] token exhibit much better attention to visual samples, and CLIP’s standard contrastive loss weakly constrains modality alignment. Based on these insights, we propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves SOTA performance on four CDFSL benchmarks.
+- <sup>†</sup> indicates equal contribution (co-first authors).
+</div>
+</div>
+
+
+
+<div class="paper-box paper-box--moon">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">CVPR 2026 Workshop</div>
+      <img src="images/GiPL.png" alt="GiPL overview" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text" markdown="1">
+
+[**GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection**](http://arxiv.org/abs/2605.29539) 
+
+Jiacong Liu, Shu Luo, Yikai Qin, **Yaze Zhao**, Yongwei Jiang, Yixiong Zou
+
+- This paper proposes GiPL, an efficient two-branch training framework for CDFSOD. In the first branch, we design an iterative pseudo-label self-training paradigm, which performs zero-shot inference on the support set to generate reliable pseudo-annotations, fuses them with ground-truth labels, and iteratively optimizes the model to fully exploit support set data. In the second branch, we introduce generative data augmentation pipeline using large vision-language models, which synthesizes domain-aligned, multi-object annotated images to enrich training samples and suppress overfitting.  
+  </div>
+</div>
+
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">CVPR 2026</div>
       <img src='images/CC-CDFSL.png' alt="CC-CDFSL overview" width="100%">
     </div>
@@ -48,23 +87,7 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 </div>
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Under Review</div>
-      <img src='images/Semantic_Probe.png' alt="Semantic Probe" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[**Reviving In-domain Fine-tuning Methods for Source-Free Cross-domain Few-shot Learning**](http://arxiv.org/abs/2605.11659)
-
-**Yaze Zhao**<sup>†</sup>, Yicong Liu<sup>†</sup>, Yixiong Zou, Yuhua Li, Ruixuan Li
-
-- We propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves state-of-the-art performance on four CDFSL benchmarks.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
