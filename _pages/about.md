@@ -43,7 +43,8 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 
 **Yaze Zhao**<sup>†</sup>, Yicong Liu<sup>†</sup>, Yixiong Zou, Yuhua Li, Ruixuan Li
 
--  By establishing multiple fine-tuning baselines of CLIP for CDFSL, we find adapter-based methods consistently outperform prompt-based ones—contrary to in-domain scenarios. We analyze this phenomenon and discover LoRA’s superiority stems from rectifying the collapsed attention of visual [CLS] token, enhancing modality alignment and class separation by focusing on text-related visual regions. Further, we find textual [EOS] token exhibit much better attention to visual samples, and CLIP’s standard contrastive loss weakly constrains modality alignment. Based on these insights, we propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves SOTA performance on four CDFSL benchmarks.
+- By establishing fine-tuning baselines of CLIP for CDFSL, we find adapter-based methods consistently outperform prompt-based ones—contrary to in-domain scenarios. We analyze this phenomenon and discover LoRA’s superiority stems from rectifying the collapsed attention of visual [CLS] token, enhancing modality alignment and class separation by focusing on text-related visual regions. Further, we find textual [EOS] token exhibit much better attention to visual samples, and CLIP’s standard contrastive loss weakly constrains modality alignment. 
+- Based on these insights, we propose a plug-and-play Semantic Probe framework consisting of an EAR module and a dynamic BAS loss, which revives in-domain fine-tuning methods and achieves SOTA performance on four CDFSL benchmarks. 
 - <sup>†</sup> indicates equal contribution (co-first authors).
 </div>
 </div>
@@ -63,7 +64,7 @@ I am currently diving into **Few-shot Learning** and **Visual Language Model**, 
 
 Jiacong Liu, Shu Luo, Yikai Qin, **Yaze Zhao**, Yongwei Jiang, Yixiong Zou
 
-- This paper proposes GiPL, an efficient two-branch training framework for CDFSOD. In the first branch, we design an iterative pseudo-label self-training paradigm, which performs zero-shot inference on the support set to generate reliable pseudo-annotations, fuses them with ground-truth labels, and iteratively optimizes the model to fully exploit support set data. In the second branch, we introduce generative data augmentation pipeline using large vision-language models, which synthesizes domain-aligned, multi-object annotated images to enrich training samples and suppress overfitting.  
+- We propose GiPL, an efficient two-branch training framework for CDFSOD. In the first branch, we design an iterative pseudo-label self-training paradigm, which performs zero-shot inference on the support set to generate reliable pseudo-annotations, fuses them with ground-truth labels, and iteratively optimizes the model. In the second branch, we introduce generative data augmentation pipeline using large vision-language models, which synthesizes domain-aligned, multi-object annotated images.  
 </div> <!-- 不可以空格    -->
 </div>
 
